@@ -4,7 +4,7 @@ My name is luuk hamming and this is my workprofile of recognize!
 
 ---
 
-- 💼 I'm work as an support engineer as an second line support engineer. 
+- 💼 I work as an support engineer as an second line support engineer. 
 - 🏫 I Study at Saxion University
   - 💻 I study software engineering there
 - 🌱 I like to learn a lot about different languages!
